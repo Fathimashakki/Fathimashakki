@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm fathima shakki</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
+- 🔭 I’m currently working on [javascript](https://www.w3schools.com/)
+
 - 📫 How to reach me **fathimashakki21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
