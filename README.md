@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm fathima shakki</h1>
-<h3 align="center"> i am an engineering student</h3>
+<h3 align="center"> i am an IOS DEVOLOPER INTERN</h3>
 
 - 🔭 I’m currently working on [Swift](https://www.w3schools.com/)
 
