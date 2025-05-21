@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm fathima shakki</h1>
 <h3 align="center"> i am an IOS DEVOLOPER INTERN</h3>
 
-- 🔭 I’m currently working on [Swift](https://www.w3schools.com/)
+- 🔭 I’m currently working on [Swift], [SwiftUI](https://www.w3schools.com/)
 
 - 📫 How to reach me **fathimashakki21@gmail.com**
 
